@@ -170,8 +170,14 @@ To build such a system, several components and tools are integrated alongside Li
    ![Ai Assistant Image](ai.png)
 
    ![Image](Images/img.png)
+   ![Image](Images/Schedule1.png)
+   ![Image](Images/Availableslot.png)
+   ![Image](Images/Inventory.png)
+   ![Image](Images/Inventoryhighlow.png)
+   ![Image](Images/resgisterpatient.png)
    ![Image](Images/img2.png)
    ![Image](Images/resgisterpatient.png)
+   
 
   
      
