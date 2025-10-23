@@ -30,6 +30,7 @@ HapiVet AI ensures smoother operations, faster response in emergencies, and bett
 * **React Router** – For navigation between pages: Home, Schedule, Inventory, Patients.
 * **WebSocket / LiveKit** – To enable real-time communication between the AI assistant and the frontend.
 
+
 ### **Backend**
 
 * **Python** – Core language for AI, ML, and server-side logic.
@@ -165,8 +166,12 @@ To build such a system, several components and tools are integrated alongside Li
    - **Database**: Stores pet and owner information, appointments, and historical data.  
    - **Integration**: APIs connect the AI layer, LiveKit, and the database to provide a seamless experience.
 
-  ![Dog Image](images/aiassistant.png)
+  ![AI Interact with user](Images/aiassistant.png)
    ![Ai Assistant Image](ai.png)
+
+   ![Image](Images/img.png)
+   ![Image](Images/img2.png)
+   ![Image](Images/resgisterpatient.png)
 
   
      
