@@ -1,0 +1,15 @@
+livekit-agents==0.8.7
+livekit-plugins-openai==0.8.1
+livekit-plugins-silero==0.6.4
+python-dotenv==1.0.1
+google-genai
+pillow
+langchain
+langchain-community
+langchain-chroma
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+chromadb
+pypdf
+
