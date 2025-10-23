@@ -174,9 +174,8 @@ To build such a system, several components and tools are integrated alongside Li
    ![Image](Images/Availableslot.png)
    ![Image](Images/Inventory.png)
    ![Image](Images/Inventoryhighlow.png)
-   ![Image](Images/resgisterpatient.png)
    ![Image](Images/img2.png)
-   ![Image](Images/resgisterpatient.png)
+   ![Image](Images/patient.png)
    
 
   
