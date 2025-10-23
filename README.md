@@ -164,6 +164,10 @@ To build such a system, several components and tools are integrated alongside Li
    - **AI Layer**: NLP and ML models for understanding queries, generating responses, and disease prediction.  
    - **Database**: Stores pet and owner information, appointments, and historical data.  
    - **Integration**: APIs connect the AI layer, LiveKit, and the database to provide a seamless experience.
+
+  ![Dog Image](images/aiassistant.png)
+   ![Ai Assistant Image](ai.png)
+
   
      
 
