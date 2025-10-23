@@ -33,30 +33,30 @@ HapiVet AI ensures smoother operations, faster response in emergencies, and bett
 ### **Backend**
 
 * **Python** – Core language for AI, ML, and server-side logic.
-* **FastAPI / Flask** – To create REST APIs for frontend-backend communication.
-* **SQLite / MongoDB** – Database for storing user, patient, schedule, and inventory data.
+* **FastAPI** – To create REST APIs for frontend-backend communication.
+* **MongoDB** – Database for storing user, patient, schedule, and inventory data.
 
 ### **Machine Learning Approaches**
 
 1. **Disease Prediction / Diagnosis**
 
-   * **Approach:** Symptom-based classification using models like Random Forest, XGBoost, or a small Neural Network.
+   * **Approach:** Symptom-based classification using models like Random Forest.
    * **Data:** Historical patient records with symptoms and confirmed diagnoses.
    * **Purpose:** Given the symptoms input by the AI assistant, the system predicts the probable disease for the patient.
 
 2. **Schedule Optimization**
 
-   * **Approach:** Use a **constraint-solving algorithm** or **ML-based recommendation system** to suggest optimal time slots for doctors based on availability and demand patterns.
+   * **Approach:** Use a **ML-based recommendation system** to suggest optimal time slots for doctors based on availability and demand patterns.
    * **Data:** Doctor schedules, appointment history, and slot popularity.
 
 3. **Inventory Management**
 
-   * **Approach:** Predictive stock management using **time-series forecasting** (ARIMA, LSTM) to estimate when a medicine or equipment will run low.
+   * **Approach:** Predictive stock management using **time-series forecasting** (LSTM) to estimate when a medicine or equipment will run low.
    * **Purpose:** Dynamically updates inventory, highlights low-stock items, and forecasts future needs.
 
 4. **AI Assistant Automation**
 
-   * **Approach:** NLP-based intent recognition using **OpenAI GPT models, BERT, or RoBERTa** to understand commands and execute tasks such as page navigation, calling, or booking.
+   * **Approach:** NLP-based intent recognition using **OpenAI GPT models, BERT** to understand commands and execute tasks such as page navigation, calling, or booking.
    * **Purpose:** Automates tasks without human intervention and responds to user queries efficiently.
 
 ### **Other Tools**
